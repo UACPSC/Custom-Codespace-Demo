@@ -1,6 +1,6 @@
 {
     "name": "Updated CMake Environment",
-    "image": "mlcollard/codespaces",
+    "image": "srcml/codespaces",
     "settings": {
         "terminal.integrated.shell.linux": "/bin/bash"
     }
