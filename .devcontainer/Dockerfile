@@ -5,6 +5,7 @@ FROM mcr.microsoft.com/devcontainers/cpp
 # Update and install dependencies
 RUN apt-get update && apt-get install --no-install-recommends -y \
     gh \
+    asciinema \
     && rm -rf /var/lib/apt/lists/*
 
 # Install cmake
