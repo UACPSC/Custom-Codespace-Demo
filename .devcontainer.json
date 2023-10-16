@@ -1,5 +1,5 @@
 {
-    "name": "Updated CMake Environment",
+    "name": "Updated C++ Environment",
     "image": "srcml/codespaces",
     "settings": {
         "terminal.integrated.shell.linux": "/bin/bash"
