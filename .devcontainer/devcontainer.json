@@ -1,6 +1,6 @@
 {
     "name": "Updated CMake Environment",
-    "dockerFile": "Dockerfile",
+    "image": "mlcollard/codespaces",
     "settings": {
         "terminal.integrated.shell.linux": "/bin/bash"
     }
