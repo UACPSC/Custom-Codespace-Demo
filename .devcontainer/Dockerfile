@@ -12,6 +12,7 @@ RUN apt-get update && apt-get install --no-install-recommends -y \
     autoconf \
     autotools-dev \
     graphviz \
+    libxml2-utils \
     && rm -rf /var/lib/apt/lists/*
 
 # Install cmake
